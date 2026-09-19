@@ -1,0 +1,8 @@
+{
+  "name": "phone-web-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Phone web app with server-side authentication",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
